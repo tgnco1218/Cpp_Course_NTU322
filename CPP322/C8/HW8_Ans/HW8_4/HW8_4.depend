@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1514140574 source:e:\dropbox\lkm\�½ҽҵ{\cpp\homework\answer\hw8_4\main.cpp
+	<iostream>
+
+1567607548 source:e:\dropbox\lkm\�½ҽҵ{\cpp\homework\answer\hw8_4\point3d.cpp
+	"Point3D.h"
+	<math.h>
+
+1567607551 e:\dropbox\lkm\�½ҽҵ{\cpp\homework\answer\hw8_4\point3d.h
+	<iostream>
+
