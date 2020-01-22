@@ -1,0 +1,4 @@
+What's your name?
+Where do you live?
+What do you do?
+Do your like programming?
