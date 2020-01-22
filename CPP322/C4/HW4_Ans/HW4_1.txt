@@ -1,0 +1,9 @@
+5
+Hello
+WorldIsGreatHello
+-1
+World Is GHelloreat, Why Not Learning C++?
+Great
+6
+s
+37
